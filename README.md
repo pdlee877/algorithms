@@ -1,7 +1,7 @@
-# algorithms
+## algorithms
+To get a better understanding of Python data structures and
+solidify algorithms
 
-To get a better understanding of Python data structures
-
-*notes and key things to remember
-*learn x in y minutes => Python
-*udemy python algorithms and data structure overview
+* notes and key things to remember
+* learn x in y minutes => Python
+* Udemy - Python algorithms and data structures review
